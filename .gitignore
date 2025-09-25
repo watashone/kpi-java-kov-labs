@@ -5,6 +5,7 @@ build/
 # IDEA
 *.iml
 .idea/
+.idea
 out/
 
 # Logs
